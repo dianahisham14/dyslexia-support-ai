@@ -1,6 +1,18 @@
 # Dyslexia Support AI
 
 ## KMK3013 Knowledge-Based System Group Assignment
+## Authors
+
+KMK3013 Knowledge-Based System
+
+Group Members:
+
+- Nurdiana Aryantie Binti Mohd Hisham (100541)
+- Nurul Haziqah Binti Tazudin (100658)
+- Siti Syafiqah Binti Amen (101093)
+- Mohammad Hadzirun bin Sawal (99785)
+- Arifah binti Jefriddin (98242)
+
 
 ### Project Description
 
